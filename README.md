@@ -145,7 +145,7 @@ MIT License - See LICENSE file for details
 
 **Jeckson**  
 Cybersecurity Student | PSB Academy  
-[GitHub](https://github.com/jecksonzh) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeckson-zhang-24a2a5320/))
+[GitHub](https://github.com/jecksonzh) | [LinkedIn](https://www.linkedin.com/in/jeckson-zhang-24a2a5320)
 
 ---
 
